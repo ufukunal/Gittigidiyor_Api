@@ -1,0 +1,8 @@
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.WinFormsUI\bin\Debug\ProductListing.WinFormsUI.exe.config
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.WinFormsUI\bin\Debug\ProductListing.WinFormsUI.exe
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.WinFormsUI\bin\Debug\ProductListing.WinFormsUI.pdb
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.WinFormsUI\obj\Debug\ProductListing.WinFormsUI.csprojAssemblyReference.cache
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.WinFormsUI\obj\Debug\ProductListing.WinFormsUI.Properties.Resources.resources
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.WinFormsUI\obj\Debug\ProductListing.WinFormsUI.csproj.GenerateResource.cache
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.WinFormsUI\obj\Debug\ProductListing.WinFormsUI.exe
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.WinFormsUI\obj\Debug\ProductListing.WinFormsUI.pdb

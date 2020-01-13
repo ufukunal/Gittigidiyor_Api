@@ -1,0 +1,5 @@
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Entities\bin\Debug\ProductListing.Entities.dll
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Entities\bin\Debug\ProductListing.Entities.pdb
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Entities\obj\Debug\ProductListing.Entities.csprojAssemblyReference.cache
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Entities\obj\Debug\ProductListing.Entities.dll
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Entities\obj\Debug\ProductListing.Entities.pdb

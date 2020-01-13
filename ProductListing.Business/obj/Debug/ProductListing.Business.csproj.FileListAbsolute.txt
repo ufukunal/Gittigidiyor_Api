@@ -1,0 +1,13 @@
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\bin\Debug\ProductListing.Business.dll
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\bin\Debug\ProductListing.Business.pdb
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\obj\Debug\ProductListing.Business.csprojAssemblyReference.cache
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\obj\Debug\ProductListing.Business.dll
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\obj\Debug\ProductListing.Business.pdb
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\bin\Debug\ProductListing.DataAccess.dll
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\bin\Debug\ProductListing.Entities.dll
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\bin\Debug\EntityFramework.dll
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\bin\Debug\ProductListing.DataAccess.pdb
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\bin\Debug\ProductListing.DataAccess.dll.config
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\bin\Debug\ProductListing.Entities.pdb
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\bin\Debug\EntityFramework.xml
+C:\Users\Emel Kırımlı\source\repos\ProductListing\ProductListing.Business\obj\Debug\ProductListing.Business.csproj.CopyComplete
